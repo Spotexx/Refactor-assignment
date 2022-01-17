@@ -71,7 +71,7 @@ li {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* search engin optimization section */
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,7 +89,7 @@ li {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* makes the image in the div push to left of the div and the text to the right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -98,7 +98,7 @@ li {
 p {
     font-size: 16px;
 }
-
+/* online reputatation management section */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,7 +111,7 @@ p {
 #online-reputation-management img {
     max-height: 200px;
 }
-
+/* makes the img push to the right of the div and the text to the left */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -121,7 +121,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* social media marketing section */
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -201,6 +201,8 @@ p {
 
 /* #endregion */
 /* #region footer */
+
+/* applies to footer section */
 .footer {
     padding: 30px;
     clear: both;
