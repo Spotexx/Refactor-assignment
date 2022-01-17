@@ -85,14 +85,15 @@ li {
     max-height: 200px;
 }
 
-#search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /* makes the image in the div push to left of the div and the text to the right */
 .float-left {
     float: left;
     margin-right: 25px;
+}
+
+#search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 p {
